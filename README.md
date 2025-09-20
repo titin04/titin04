@@ -8,7 +8,7 @@
 <h3>:rocket: Tecnologías y lenguajes que manejo:</h3>
 <ul>
   <li>Java :coffee:</li>
-  <li>Kotlin :mobile_phone:</li>
+  <li>Kotlin :iphone:</li>
   <li>SQL / MySQL :file_cabinet:</li>
   <li>HTML, CSS :art:</li>
   <li>LINUX :globe_with_meridians:</li>
